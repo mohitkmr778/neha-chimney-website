@@ -13,12 +13,12 @@ export default function Footer() {
             <div className="max-w-[1200px] mx-auto px-4">
                 <div className="text-center mb-6">
                     <img
-                        src="/abhaya-logo.png"
-                        alt="Gen1service Logo"
+                        src="/neha-logo.png"
+                        alt="neha Logo"
                         className="mx-auto mb-2 h-[48px] w-auto"
                     />
                     <p className="text-xl font-medium mb-4 text-[#ffe082]">
-                        Abhaya Chimney Services - We will be loyal to our
+                        Neha Chimney & Repair Services - We will be loyal to our
                         services
                     </p>
                     <div className="flex justify-center gap-4 mb-4">
@@ -61,21 +61,20 @@ export default function Footer() {
                         </h3>
                         <ul className="mt-2 space-y-1">
                             <li>
-                                Site-c, Sri Sai Enclave, Plot no.A-1, near
-                                Paramount Golf Foreste, UPSIDC Site C, Surajpur,
-                                Greater Noida, Uttar Pradesh 201311
+                               Shop No. 3 H.No.607,  Patwari Ji Building village bisrakh Jalalpur 
+                                Near R.L. international public school sector-1 Greater Noida West 201318
                             </li>
                             <li>
                                 <b className="text-[#ffb300] font-bold">
                                     Email:
                                 </b>{" "}
-                                <span className="text-sm">abhayachimneyservices@gmail.com</span>
+                                <span className="text-sm">nehacare26@gmail.com</span>
                             </li>
                             <li>
                                 <b className="text-[#ffb300] font-bold">
                                     Phone:
                                 </b>{" "}
-                                9310415762
+                                +91 73109 68871
                             </li>
                         </ul>
                     </div>
@@ -164,7 +163,7 @@ export default function Footer() {
                             href="#"
                             className="text-[#ffb300] font-bold underline"
                         >
-                            Abhaya Chimney Services
+                            Neha Chimney & Repair Services
                         </a>{" "}
                         All rights reserved
                     </span>
