@@ -11,45 +11,33 @@ export default function ReturnRefundPolicy() {
                      Return & Refund Policy
                 </h2>
                 <p className="mb-4 text-sm text-gray-700">
-                  We at Abhaya Chimney Service are dedicated to protecting your personal information because we appreciate
-                your trust. This Privacy Policy describes how we gather, utilize, and safeguard the data you submit when using 
-                our website, services, or customer service channels. You consent to the following practices by using our services.
+                At Neha Chimney & Repair Services, we value our customers and strive to provide the highest quality repair, installation, 
+        and maintenance services. This Return & Refund Policy outlines our procedures for handling returns, replacements, and refunds
+        to ensure complete transparency and customer satisfaction.
+        Service-Based Nature of Our Business:
+Our services primarily include chimney, hob, and gas stove repair, installation, and maintenance. Since our work involves on-site
+    technical service and labor, refunds are generally not applicable once a service has been completed and accepted by the customer.
+    However, we do make exceptions in cases of proven service errors, defective parts, or incomplete work.
 
-We may gather personal information like your name, phone number, email address, and physical address when you contact us,
-            schedule a service, or make an inquiry. In order to provide you with better service, we also keep track of
-            your chimney model, service needs, and any previous repairs. We might handle a small amount of billing information
-            when payments are made online, but sensitive payment information like credit card numbers or bank account information 
-            is never kept on our servers. In order to improve our website and the user experience, we may also gather technical
-                data such as device type, browser, IP address, and general usage information.
+        Replacement and Repair of Parts:
+If a spare part installed by our technician is found to be defective within the warranty period,
+    we will replace or repair the part at no additional cost, provided that the issue is not caused by physical damage, misuse,
+    or unauthorized tampering. Warranty terms vary depending on 
+    the manufacturer and will be clearly mentioned on your invoice or service slip.
+        Cancellation Policy:
+Customers may cancel a scheduled service appointment up to 12 hours before the visit without incurring any charges.
+    If the technician has already been dispatched or reached the location, a minimum visit charge will apply.
+        Refund Conditions
 
-We only use the data we gather to deliver and enhance our services. This entails making and keeping appointments,
-                    providing customer service, updating clients on service requests, and keeping service logs for future use.
-                    If you have consented to receive such communications, we may also use your information to send you pertinent
-                    offers, promotions, or updates. Additionally, data can be utilized to assess patterns, enhance our operational
-                        effectiveness, and guarantee adherence to relevant legal requirements and safety regulations.
+Refunds are processed only in cases where:
 
-Your personal information is never traded, rented, or sold to outside parties. To finish a transaction or satisfy a service
-                            request, however, specific information might be given to reliable technicians, service partners, or
-                                payment processors. We may share data with government authorities or regulators when disclosure is
-                                    mandated by law or legal process. Customer information might be transferred as part of a merger, acquisition, or sale of our company.
+A customer has made an advance payment and later cancels the service before technician dispatch.
 
-We implement appropriate technical and organizational security procedures and measures to guard against unauthorized access, 
-                misuse, and disclosure of your data. Although no online system can provide complete security, we always work 
-                    to protect your personal information as much as possible. Cookies and related technologies may also be used 
-                    on our website to better understand user behavior and improve the browsing experience. You can choose to 
-                    turn off cookies in your browser, but doing so might make some features of the website less functional.
+A duplicate payment or billing error occurs.
 
-You, as our client, are entitled to see the personal data we have on file about you, have any errors fixed, or have it deleted
-                if necessary. Additionally, you have the option to stop receiving promotional communications at any moment.
-                Please be aware that although we respect such requests, we might need to keep some data for a set amount of time 
-                    due to operational or legal requirements.
+A valid service complaint remains unresolved after multiple attempts.
 
-This Privacy Policy may be updated periodically by Abhaya Chimney Service to take into account modifications to our procedures
-        or to comply with new laws. Any changes, along with the updated effective date, will be announced on our website.
-            To stay updated on how your data is handled, we advise you to review the policy from time to time.                                                                                                                            
-If you have any questions, concerns, or requests regarding your personal information, you may contact Abhaya Chimney
-            Service through the contact details provided on our website or customer support channels. By continuing to
-                use our services, you acknowledge that you have read and understood this Privacy Policy
+All approved refunds will be initiated within 7–10 business days to the original mode of payment.
                 </p>
                 <ol className="text-black list-decimal pl-4 space-y-4">
                     <li>
