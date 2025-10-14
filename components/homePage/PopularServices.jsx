@@ -12,7 +12,7 @@ const services = [
     {
         title: "RO Water Purifier Repair Service",
         description:
-            "For the greatest RO water purifier installation, maintenance, and repair services, Abhaya Services is your go-to source.\u00A0Now.",
+            "For the greatest RO water purifier installation, maintenance, and repair services, Neha Chimney & Repair Services is your go-to source.\u00A0Now.",
         img: "/slider/water-purifierone.jpg",
         link: "/ro-water-purifier-repair-service",
     },
@@ -27,7 +27,7 @@ const services = [
     {
         title: "Mircowave Repair Service",
         description:
-            "Get reliable Washing Machine repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
+            "Get reliable Washing Machine repair services in Noida and Greater Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
     
         img: "/slider/noida.jpg",
         link: "/mircowave-repair-service",
