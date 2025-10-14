@@ -15,7 +15,7 @@ const slides = [
         image: "/slider/chimney-slider-one.jpg", // replace with your image
         title: "Expert Chimney Repair Service",
         subtitle:
-            "Fast, reliable chimney repair for smoke issues, cleaning, maintenance, and installation at affordable rates.",
+            "Reliable chimney repair, installation, and maintenance services for homes.",
     },
     {
         image: "/slider/chimney-slider-two.jpg",
