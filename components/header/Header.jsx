@@ -20,8 +20,8 @@ export default function Header() {
                 <div className="mr-6">
                     <Link href="/">
                         <img
-                            src="/abhaya-logo.png"
-                            alt="Gen1service Logo"
+                            src="/neha-logo.png"
+                            alt="Neha Logo"
                             className="h-[40px] w-auto"
                         />
                     </Link>
