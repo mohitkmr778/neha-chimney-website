@@ -3,8 +3,8 @@ import React from "react";
 
 const FloatingContactButtons = () => {
     // Replace these with your actual phone number and WhatsApp number
-    const phoneNumber = "+919876543210"; // Replace with your actual phone number
-    const whatsappNumber = "+919876543210"; // Replace with your actual WhatsApp number
+    const phoneNumber = "+917310968871"; // Replace with your actual phone number
+    const whatsappNumber = "+917310968871"; // Replace with your actual WhatsApp number
     const whatsappMessage = "Hello! I need help with appliance repair services.";
 
     const handleWhatsAppClick = () => {
