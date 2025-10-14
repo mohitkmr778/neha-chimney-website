@@ -11,45 +11,27 @@ export default function TermsConditions() {
                      Terms & Conditions
                 </h2>
                 <p className="mb-4 text-sm text-gray-700">
-                  We at Abhaya Chimney Service are dedicated to protecting your personal information because we appreciate
-                your trust. This Privacy Policy describes how we gather, utilize, and safeguard the data you submit when using 
-                our website, services, or customer service channels. You consent to the following practices by using our services.
+                Welcome to Neha Chimney & Repair Services. By accessing or using our services, you agree to comply with the 
+        following Terms and Conditions. Please read them carefully before booking or availing any of our services.
 
-We may gather personal information like your name, phone number, email address, and physical address when you contact us,
-            schedule a service, or make an inquiry. In order to provide you with better service, we also keep track of
-            your chimney model, service needs, and any previous repairs. We might handle a small amount of billing information
-            when payments are made online, but sensitive payment information like credit card numbers or bank account information 
-            is never kept on our servers. In order to improve our website and the user experience, we may also gather technical
-                data such as device type, browser, IP address, and general usage information.
+Our company provides professional chimney, hob, and gas stove repair, installation, and maintenance services. 
+            All services are subject to availability and must be scheduled through our official contact channels. Service charges 
+            may vary based on the nature of the repair, spare parts used, and distance of service location.
 
-We only use the data we gather to deliver and enhance our services. This entails making and keeping appointments,
-                    providing customer service, updating clients on service requests, and keeping service logs for future use.
-                    If you have consented to receive such communications, we may also use your information to send you pertinent
-                    offers, promotions, or updates. Additionally, data can be utilized to assess patterns, enhance our operational
-                        effectiveness, and guarantee adherence to relevant legal requirements and safety regulations.
+Customers are required to provide accurate information regarding their appliance type, issue, and address details. Any incorrect
+                information may lead to delays or additional charges. Payment must be made upon completion of the service unless
+                    otherwise agreed.
 
-Your personal information is never traded, rented, or sold to outside parties. To finish a transaction or satisfy a service
-                            request, however, specific information might be given to reliable technicians, service partners, or
-                                payment processors. We may share data with government authorities or regulators when disclosure is
-                                    mandated by law or legal process. Customer information might be transferred as part of a merger, acquisition, or sale of our company.
+All spare parts replaced by our technicians come with a limited warranty as communicated at the time of service. This warranty
+                does not cover physical damage, misuse, or issues caused by unauthorized repair attempts after our service.
 
-We implement appropriate technical and organizational security procedures and measures to guard against unauthorized access, 
-                misuse, and disclosure of your data. Although no online system can provide complete security, we always work 
-                    to protect your personal information as much as possible. Cookies and related technologies may also be used 
-                    on our website to better understand user behavior and improve the browsing experience. You can choose to 
-                    turn off cookies in your browser, but doing so might make some features of the website less functional.
+Neha Chimney & Repair Services is not responsible for any indirect, incidental, or consequential damages arising from service
+                    delays, equipment malfunction, or unforeseen technical issues.
 
-You, as our client, are entitled to see the personal data we have on file about you, have any errors fixed, or have it deleted
-                if necessary. Additionally, you have the option to stop receiving promotional communications at any moment.
-                Please be aware that although we respect such requests, we might need to keep some data for a set amount of time 
-                    due to operational or legal requirements.
+We reserve the right to refuse service in cases of unsafe environments, misuse of appliances, or non-compliance with payment 
+                        terms.
 
-This Privacy Policy may be updated periodically by Abhaya Chimney Service to take into account modifications to our procedures
-        or to comply with new laws. Any changes, along with the updated effective date, will be announced on our website.
-            To stay updated on how your data is handled, we advise you to review the policy from time to time.                                                                                                                            
-If you have any questions, concerns, or requests regarding your personal information, you may contact Abhaya Chimney
-            Service through the contact details provided on our website or customer support channels. By continuing to
-                use our services, you acknowledge that you have read and understood this Privacy Policy
+By using our services, you agree to abide by these Terms & Conditions. We may update or modify them without prior notice.
                 </p>
                 <ol className="text-black list-decimal pl-4 space-y-4">
                     <li>
