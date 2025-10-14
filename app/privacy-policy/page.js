@@ -11,45 +11,26 @@ export default function PrivacyPolicy() {
                     Privacy Policy
                 </h2>
                 <p className="mb-4 text-sm text-gray-700">
-                  We at Abhaya Chimney Service are dedicated to protecting your personal information because we appreciate
-                your trust. This Privacy Policy describes how we gather, utilize, and safeguard the data you submit when using 
-                our website, services, or customer service channels. You consent to the following practices by using our services.
+               
+At Neha Chimney & Repair Services, your privacy is important to us. This Privacy Policy explains how we collect,
+        use, and protect your personal information when you use our services or visit our website. By engaging
+        with us, you agree to the terms outlined below.
 
-We may gather personal information like your name, phone number, email address, and physical address when you contact us,
-            schedule a service, or make an inquiry. In order to provide you with better service, we also keep track of
-            your chimney model, service needs, and any previous repairs. We might handle a small amount of billing information
-            when payments are made online, but sensitive payment information like credit card numbers or bank account information 
-            is never kept on our servers. In order to improve our website and the user experience, we may also gather technical
-                data such as device type, browser, IP address, and general usage information.
+We may collect personal details such as your name, address, contact number, and email ID when you request a service,
+        make an inquiry, or contact us online. This information helps us provide efficient service, schedule appointments, 
+        and communicate updates or offers related to
+        our services. We ensure that all data collected is used strictly for legitimate business purposes only.
 
-We only use the data we gather to deliver and enhance our services. This entails making and keeping appointments,
-                    providing customer service, updating clients on service requests, and keeping service logs for future use.
-                    If you have consented to receive such communications, we may also use your information to send you pertinent
-                    offers, promotions, or updates. Additionally, data can be utilized to assess patterns, enhance our operational
-                        effectiveness, and guarantee adherence to relevant legal requirements and safety regulations.
+            We do not share, sell, or rent your personal information to any third party without your consent, except as required 
+            by law or to trusted partners who assist us in delivering services (such as payment gateways or logistics providers).
+                These partners are also obligated to maintain strict confidentiality of your data.
 
-Your personal information is never traded, rented, or sold to outside parties. To finish a transaction or satisfy a service
-                            request, however, specific information might be given to reliable technicians, service partners, or
-                                payment processors. We may share data with government authorities or regulators when disclosure is
-                                    mandated by law or legal process. Customer information might be transferred as part of a merger, acquisition, or sale of our company.
+All personal data is stored securely using modern security practices to prevent unauthorized access, misuse, or disclosure.
+                While we strive to protect your information, we cannot guarantee complete security of data transmitted over
+                the internet, and users share information at their own risk.
 
-We implement appropriate technical and organizational security procedures and measures to guard against unauthorized access, 
-                misuse, and disclosure of your data. Although no online system can provide complete security, we always work 
-                    to protect your personal information as much as possible. Cookies and related technologies may also be used 
-                    on our website to better understand user behavior and improve the browsing experience. You can choose to 
-                    turn off cookies in your browser, but doing so might make some features of the website less functional.
-
-You, as our client, are entitled to see the personal data we have on file about you, have any errors fixed, or have it deleted
-                if necessary. Additionally, you have the option to stop receiving promotional communications at any moment.
-                Please be aware that although we respect such requests, we might need to keep some data for a set amount of time 
-                    due to operational or legal requirements.
-
-This Privacy Policy may be updated periodically by Abhaya Chimney Service to take into account modifications to our procedures
-        or to comply with new laws. Any changes, along with the updated effective date, will be announced on our website.
-            To stay updated on how your data is handled, we advise you to review the policy from time to time.                                                                                                                            
-If you have any questions, concerns, or requests regarding your personal information, you may contact Abhaya Chimney
-            Service through the contact details provided on our website or customer support channels. By continuing to
-                use our services, you acknowledge that you have read and understood this Privacy Policy
+Our website may contain links to other external websites. Please note that we are not responsible for the
+                    privacy practices of such sites.
                 </p>
                 <ol className="text-black list-decimal pl-4 space-y-4">
                     <li>
