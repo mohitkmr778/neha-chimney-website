@@ -64,7 +64,7 @@ export default function ROWaterPurifierRepairServicePage() {
                                Trusted RO Purifier Installation, Cleaning & Maintenance
                             </h2>
                             <p className="text-[#222] mb-2 text-base">
-                                ${`We clean and replace filters, check TDS levels, sanitise storage
+                                We clean and replace filters, check TDS levels, sanitise storage
                                 tanks, and inspect pipelines as part of our routine servicing and maintenance programs to avoid contamination.
                                 Maintaining your RO system on a regular basis not only increases its purifying effectiveness but also prolongs 
                                 its longevity, preventing future expensive replacements.
@@ -72,7 +72,7 @@ export default function ROWaterPurifierRepairServicePage() {
                                 leak-proof connections, and secure electrical setup are guaranteed by our professionals. We also help you 
                                 choose the best model for your needs depending on factors like family size, water quality, and usage.
                                 Our combination of genuine parts, technical know-how, and upfront pricing makes Abhaya Services the go-to 
-                                option for RO water purifier installation, maintenance, and repair.`}
+                                option for RO water purifier installation, maintenance, and repair.`
                             </p>
                             <ul className="mt-4 space-y-2">
                                
