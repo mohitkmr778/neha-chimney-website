@@ -7,7 +7,7 @@ export default function ROWaterPurifierRepairServicePage() {
         <>
             <PageBanner
                 title="RO Water Purifier Repair Service"
-                subtitle="Expert RO Water Purifier Repair Service for all brands. Quick doorstep support, genuine parts, affordable pricing, and skilled technicians to ensure clean, safe drinking water. Book your service today!"
+                subtitle="Reliable RO repair service ensuring clean, safe, and pure water."
                 image="/slider/water-purifierone.jpg"
             />
            <main className="bg-[#f6fbfd] py-10">
@@ -29,18 +29,18 @@ export default function ROWaterPurifierRepairServicePage() {
                                 Water Purifier
                             </h4>
                             <h2 className="text-3xl font-bold mb-4 text-[#0d5c6b]">
-                              Best RO Water Purifier Repair & Service at Your Doorstep
+                             Professional RO System Maintenance & Filter Replacement
                             </h2>
                           
                             <p className="text-[#222] mb-2 text-base">
-                                ${`For the greatest RO water purifier installation, maintenance, and repair services, Abhaya Services 
+                                For the greatest RO water purifier installation, maintenance, and repair services, Abhaya Services 
                                 is your go-to source, guaranteeing your family's access to clean and safe drinking water. We offer 
                                 dependable and reasonably priced services for all of the top brands of RO water purifiers because to
                                 our staff of skilled experts and customer-first philosophy.
                                 Problems including water leaks, strange noises, poor or no water flow, unpleasant tastes or odors, and
                                 broken filters or pumps are all addressed by our RO repair services. To restore your purifier's 
-                                functionality and guarantee a steady supply of clean drinking water, we employ authentic replacement
-                                parts and cutting-edge equipment.`}
+                                functionality  a steady supply of clean drinking water, we employ authentic replacement
+                                parts and cutting-edge equipment.
                             </p>
                            
                         </div>
