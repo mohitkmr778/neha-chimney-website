@@ -22,7 +22,7 @@ export default function Header() {
                         <img
                             src="/neha-logo.png"
                             alt="Neha Logo"
-                            className="h-[40px] w-auto"
+                            className="w-auto"
                         />
                     </Link>
                 </div>
