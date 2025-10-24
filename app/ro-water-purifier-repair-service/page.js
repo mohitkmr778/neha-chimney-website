@@ -92,7 +92,7 @@ export default function ROWaterPurifierRepairServicePage() {
                                     <span className="mr-2 text-[#0099b7] text-lg">
                                         &#10003;
                                     </span>{" "}
-                                    24x7 Customer Support
+                                    ${`24x7 Customer Support`}
                                 </li>
                             </ul>
                         </div>
