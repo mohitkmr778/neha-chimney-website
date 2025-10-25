@@ -21,7 +21,7 @@ export default function MobileHeader() {
                 <div className="flex items-center">
                     <Link href="/">
                         <img
-                            src="/neha-logo-1.png"
+                            src="/neha-logo.png"
                             alt="Neha Logo"
                             className="h-[36px] w-auto"
                         />
