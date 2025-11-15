@@ -25,11 +25,11 @@ const services = [
         link: "/hob-gas-repair-service",
     },
     {
-        title: "Mircowave Repair Service",
+        title: "microwave Repair Service",
         description:
-            "Get reliable Mircowave Repair Service in Noida and Greater Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
+            "Get reliable microwave Repair Service in Noida and Greater Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
     
-        img: "/slider/mircowave.jpg",
+        img: "/slider/microwave.jpg",
         link: "/mircowave-repair-service",
     },
     {
