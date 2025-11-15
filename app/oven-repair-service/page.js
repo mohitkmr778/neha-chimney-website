@@ -7,7 +7,7 @@ export default function OvenRepairServicePage() {
             <PageBanner
                 title="Oven Repair Service"
                 subtitle="Get reliable  Oven repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs. Now."
-                image="/slider/noida.jpg"
+                image="/slider/oven.jpg"
             />
             <main className="bg-[#f6fbfd] py-10">
                 
