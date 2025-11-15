@@ -30,7 +30,7 @@ const services = [
             "Get reliable microwave Repair Service in Noida and Greater Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
     
         img: "/slider/microwave.jpg",
-        link: "/mircowave-repair-service",
+        link: "/microwave-repair-service",
     },
     {
         title: "Oven Repair Service",
