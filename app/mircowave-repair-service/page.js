@@ -6,7 +6,7 @@ export default function MircowaveRepairServicePage() {
         <>
             <PageBanner
                 title="Mircowave Repair Service"
-                subtitle="Get reliable Washing Machine repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs. Now."
+                subtitle="Get reliable  microwave repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs. Now."
                 image="/slider/noida.jpg"
             />
             <main className="bg-[#f6fbfd] py-10">
@@ -15,9 +15,7 @@ export default function MircowaveRepairServicePage() {
                         Mircowave Repair Service
                     </h2>
                     <p className="text-[#222] mb-2 text-base">
-                        Get reliable Washing Machine repair services in Noida
-                        with 24x7 support. Expert technicians for all brands,
-                        fast and affordable repairs. Now.
+                       Reliable microwave repair in Greater Noida with doorstep service, experienced technicians, and 3-month service warranty.
                     </p>
                     <div className="mt-4 mb-12">
                         <span className="font-semibold text-[#ffb300]">
@@ -28,7 +26,7 @@ export default function MircowaveRepairServicePage() {
                     <section className="flex flex-col md:flex-row items-center gap-8 mb-16">
                         <div className="md:w-1/2 w-full">
                             <img
-                                src="/slider/noida.jpg"
+                                src="/slider/microwave.jpg"
                                 alt="Modern Service Standard"
                                 className="rounded-xl w-full h-[320px] object-cover shadow-lg"
                             />
@@ -41,19 +39,17 @@ export default function MircowaveRepairServicePage() {
                                 Modern Service Standard
                             </h2>
                             <p className="text-[#222] mb-2 text-base">
-                                Which don’t look even slightly believable. If
-                                you are going to use a passage of Lorem Ipsum,
-                                you need to be sure
+                                One of the top microwave repair services in Greater Noida is Repair Services Point, which offers doorstep repairs for all kinds of
+                                    microwaves  and all major brands.nehachimney.shop
                             </p>
                             <p className="text-[#222] mb-2 text-base">
-                                Which don’t look even slightly believable. If
-                                you are going to use a passage of Lorem Ipsum,
-                                you need to be sure there isn’t anything
-                                embarrassing hidden in the middle of text. All
-                                the Lorem Ipsum generators on the Internet tend
-                                to repeat predefined. It uses a dictionary of
-                                over 200 Latin words, combined with a handful of
-                                model sentence ernet tend to repeat presure.
+                              
+
+For fast, reliable service, nehachimney.shop provides professional technicians across Noida  including Greater Noida, with a 90-day post-service warranty. 
+microwave
+
+If you have a microwave, the Neha chimney Service Centre in Greater Noida handles repairs using original parts and promises quick turnaround time. 
+Nehachimney.shop
                             </p>
                             <ul className="mt-4 space-y-2">
                                 <li className="flex items-center text-[#0d5c6b] font-medium">
