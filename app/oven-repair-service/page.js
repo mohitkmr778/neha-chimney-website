@@ -6,7 +6,7 @@ export default function OvenRepairServicePage() {
         <>
             <PageBanner
                 title="Oven Repair Service"
-                subtitle="Get reliable Microwave Oven repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs. Now."
+                subtitle="Get reliable  Oven repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs. Now."
                 image="/slider/noida.jpg"
             />
             <main className="bg-[#f6fbfd] py-10">
@@ -28,7 +28,7 @@ export default function OvenRepairServicePage() {
                     <section className="flex flex-col md:flex-row items-center gap-8 mb-16">
                         <div className="md:w-1/2 w-full">
                             <img
-                                src="/slider/noida.jpg"
+                                src="/slider/oven.jpg"
                                 alt="Modern Service Standard"
                                 className="rounded-xl w-full h-[320px] object-cover shadow-lg"
                             />
@@ -41,19 +41,19 @@ export default function OvenRepairServicePage() {
                                 Modern Service Standard
                             </h2>
                             <p className="text-[#222] mb-2 text-base">
-                                Which don’t look even slightly believable. If
-                                you are going to use a passage of Lorem Ipsum,
-                                you need to be sure
+                               They offer 24×7 doorstep repair for home appliances, including microwaves and ovens. Their technicians are experienced and well-trained. 
+                                    They also provide transparent pricing and a 3-month warranty on repairs.
                             </p>
                             <p className="text-[#222] mb-2 text-base">
-                                Which don’t look even slightly believable. If
-                                you are going to use a passage of Lorem Ipsum,
-                                you need to be sure there isn’t anything
-                                embarrassing hidden in the middle of text. All
-                                the Lorem Ipsum generators on the Internet tend
-                                to repeat predefined. It uses a dictionary of
-                                over 200 Latin words, combined with a handful of
-                                model sentence ernet tend to repeat presure.
+                               What makes Neha stand out is their commitment to customer satisfaction: they offer transparent pricing, genuine
+                                    replacement parts, and prompt service. 
+nehacare.shop
+ Their team is experienced, well-trained, and equipped to diagnose and fix both mechanical faults and electrical issues. 
+nehacare.shop
+
+Moreover, Neha’s services are available across Noida and Greater Noida, making it convenient to book a technician right at your doorstep. 
+Sulekha
+ Whether it’s a minor glitch or a major breakdown, Neha Chimney & Repair Services gives you peace of mind and quality repair work.
                             </p>
                             <ul className="mt-4 space-y-2">
                                 <li className="flex items-center text-[#0d5c6b] font-medium">
