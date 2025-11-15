@@ -29,7 +29,7 @@ const services = [
         description:
             "Get reliable Mircowave Repair Service in Noida and Greater Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
     
-        img: "/slider/noida.jpg",
+        img: "/slider/mircowave.jpg",
         link: "/mircowave-repair-service",
     },
     {
@@ -37,7 +37,7 @@ const services = [
         description:
             "Get reliable Oven Repair Service in Noida and Greater Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
       
-        img: "/slider/noida.jpg",
+        img: "/slider/oven.jpg",
         link: "/oven-repair-service",
     },
     {
