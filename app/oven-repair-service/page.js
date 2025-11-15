@@ -10,20 +10,8 @@ export default function OvenRepairServicePage() {
                 image="/slider/noida.jpg"
             />
             <main className="bg-[#f6fbfd] py-10">
-                <div className="max-w-[1200px] mx-auto px-4">
-                    <h2 className="text-2xl font-bold mb-4 text-[#0d5c6b]">
-                        Oven Repair Service
-                    </h2>
-                    <p className="text-[#222] mb-2 text-base">
-                        Get reliable Microwave Oven repair services in Noida
-                        with 24x7 support. Expert technicians for all brands,
-                        fast and affordable repairs. Now.
-                    </p>
-                    <div className="mt-4 mb-12">
-                        <span className="font-semibold text-[#ffb300]">
-                            ₹ 249
-                        </span>
-                    </div>
+                
+             
                     {/* Alternating sections start */}
                     <section className="flex flex-col md:flex-row items-center gap-8 mb-16">
                         <div className="md:w-1/2 w-full">
@@ -35,16 +23,17 @@ export default function OvenRepairServicePage() {
                         </div>
                         <div className="md:w-1/2 w-full">
                             <h4 className="text-[#0099b7] font-semibold uppercase mb-2 tracking-wide text-sm">
-                                About Quality
+                               Oven Repair
                             </h4>
                             <h2 className="text-3xl font-bold mb-4 text-[#0d5c6b]">
-                                Modern Service Standard
+                               Oven Repair Service 
                             </h2>
                             <p className="text-[#222] mb-2 text-base">
                                They offer 24×7 doorstep repair for home appliances, including microwaves and ovens. Their technicians are experienced and well-trained. 
                                     They also provide transparent pricing and a 3-month warranty on repairs.
                             </p>
                             <p className="text-[#222] mb-2 text-base">
+                                    
                                What makes Neha stand out is their commitment to customer satisfaction: they offer transparent pricing, genuine
                                     replacement parts, and prompt service. 
 nehacare.shop
