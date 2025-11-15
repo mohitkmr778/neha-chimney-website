@@ -7,7 +7,7 @@ export default function MircowaveRepairServicePage() {
             <PageBanner
                 title="Mircowave Repair Service"
                 subtitle="Get reliable  microwave repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs. Now."
-                image="/slider/noida.jpg"
+                image="/slider/microwave.jpg"
             />
             <main className="bg-[#f6fbfd] py-10">
                 <div className="max-w-[1200px] mx-auto px-4">
@@ -15,11 +15,11 @@ export default function MircowaveRepairServicePage() {
                         Mircowave Repair Service
                     </h2>
                     <p className="text-[#222] mb-2 text-base">
-                       Reliable microwave repair in Greater Noida with doorstep service, experienced technicians, and 3-month service warranty.
+                       
                     </p>
                     <div className="mt-4 mb-12">
                         <span className="font-semibold text-[#ffb300]">
-                            ₹ 249
+                         
                         </span>
                     </div>
                     {/* Alternating sections start */}
@@ -33,18 +33,19 @@ export default function MircowaveRepairServicePage() {
                         </div>
                         <div className="md:w-1/2 w-full">
                             <h4 className="text-[#0099b7] font-semibold uppercase mb-2 tracking-wide text-sm">
-                                About Quality
+                                Microwave Quality
                             </h4>
                             <h2 className="text-3xl font-bold mb-4 text-[#0d5c6b]">
-                                Modern Service Standard
+                               Microwave Repair Service
                             </h2>
                             <p className="text-[#222] mb-2 text-base">
-                                One of the top microwave repair services in Greater Noida is Repair Services Point, which offers doorstep repairs for all kinds of
-                                    microwaves  and all major brands.nehachimney.shop
+                                     Reliable microwave repair in Greater Noida with doorstep service, experienced technicians, and 3-month service warranty.
+                               
                             </p>
                             <p className="text-[#222] mb-2 text-base">
                               
-
+ One of the top microwave repair services in Greater Noida is Repair Services Point, which offers doorstep repairs for all kinds of
+                                    microwaves  and all major brands.nehachimney.shop
 For fast, reliable service, nehachimney.shop provides professional technicians across Noida  including Greater Noida, with a 90-day post-service warranty. 
 microwave
 
