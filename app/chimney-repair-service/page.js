@@ -15,7 +15,7 @@ export default function ChimneyRepairServicePage() {
     return (
         <>
             <PageBanner
-                title="Expert Chimney Repair & Maintenance Services"
+                title="Expert Chimney Repair & RO Maintenance Services"
                 subtitle=" Expert chimney repair service offering fast, reliable solutions for cleaning, maintenance, and installation. Ensure safe, efficient kitchen ventilation today!"
                 image="/slider/noida.jpg"
             />
@@ -50,7 +50,7 @@ export default function ChimneyRepairServicePage() {
                             </p>
                             <p className="text-[#222] mb-2 text-base">
                                 Your kitchen will remain safe, smoke-free, and clean with 
-                                Abhaya Chimney Service as your go-to partner for the best chimney installation, maintenance, and repair services.
+                               Neha Chimney Service as your go-to partner for the best chimney installation, maintenance, and repair services.
                                 We provide dependable services for all kinds and brands of chimneys at reasonable costs thanks to our years of experience
                                 and staff of knowledgeable experts.
                                 A variety of problems are covered by our chimney repair service, such as motor failures, decreased suction, strange noises,
