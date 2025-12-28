@@ -33,14 +33,14 @@ export default function ROWaterPurifierRepairServicePage() {
                             </h2>
                           
                             <p className="text-[#222] mb-2 text-base">
-                                ${`For the greatest RO water purifier installation, maintenance, and repair services, Abhaya Services 
+                                For the greatest RO water purifier installation, maintenance, and repair services, Neha Services 
                                 is your go-to source, guaranteeing your family's access to clean and safe drinking water. We offer 
                                 dependable and reasonably priced services for all of the top brands of RO water purifiers because to
                                 our staff of skilled experts and customer-first philosophy.
                                 Problems including water leaks, strange noises, poor or no water flow, unpleasant tastes or odors, and
                                 broken filters or pumps are all addressed by our RO repair services. To restore your purifier's 
                                 functionality  a steady supply of clean drinking water, we employ authentic replacement
-                                parts and cutting-edge equipment.`}
+                                parts and cutting-edge equipment.
                             </p>
                            
                         </div>
@@ -64,15 +64,15 @@ export default function ROWaterPurifierRepairServicePage() {
                                Trusted RO Purifier Installation, Cleaning & Maintenance
                             </h2>
                             <p className="text-[#222] mb-2 text-base">
-                                ${`We clean and replace filters, check TDS levels, sanitise storage
+                                We clean and replace filters, check TDS levels, sanitise storage
                                 tanks, and inspect pipelines as part of our routine servicing and maintenance programs to avoid contamination.
                                 Maintaining your RO system on a regular basis not only increases its purifying effectiveness but also prolongs 
                                 its longevity, preventing future expensive replacements.
                                 Our expert RO installation services are available to clients installing a new purifier. Proper fitting,
                                 leak-proof connections, and secure electrical setup are guaranteed by our professionals. We also help you 
                                 choose the best model for your needs depending on factors like family size, water quality, and usage.
-                                Our combination of genuine parts, technical know-how, and upfront pricing makes Abhaya Services the go-to 
-                                option for RO water purifier installation, maintenance, and repair.`}
+                                Our combination of genuine parts, technical know-how, and upfront pricing makes Neha Services the go-to 
+                                option for RO water purifier installation, maintenance, and repair.
                             </p>
                             <ul className="mt-4 space-y-2">
                                
