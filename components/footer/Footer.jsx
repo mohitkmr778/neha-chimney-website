@@ -61,7 +61,7 @@ export default function Footer() {
                         </h3>
                         <ul className="mt-2 space-y-1">
                             <li>
-                               Shop No. 3 H.No.607,  Patwari Ji Building village bisrakh Jalalpur 
+                               Shop No. 3 H.No.607, Patwari Ji Building village bisrakh Jalalpur 
                                 Near R.L. international public school sector-1 Greater Noida West 201318
                             </li>
                             <li>
