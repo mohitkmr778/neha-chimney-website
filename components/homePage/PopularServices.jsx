@@ -12,7 +12,7 @@ const services = [
     {
         title: "RO Water Purifier Repair Service",
         description:
-            "For the greatest RO water purifier installation, maintenance, and repair services, Neha Chimney & Repair Services is your go-to source.\u00A0Now.",
+            "For the greatest RO water purifier installation, maintenance, and repair services, Neha Chimney & RO Repair Services is your go-to source.\u00A0Now.",
         img: "/slider/water-purifierone.jpg",
         link: "/ro-water-purifier-repair-service",
     },
