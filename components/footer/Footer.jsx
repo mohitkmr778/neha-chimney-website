@@ -18,7 +18,7 @@ export default function Footer() {
                         className="mx-auto mb-2 h-[48px] w-auto"
                     />
                     <p className="text-xl font-medium mb-4 text-[#ffe082]">
-                        Neha Chimney & Repair Services - We will be loyal to our
+                        Neha Chimney & RO Repair Services - We will be loyal to our
                         services
                     </p>
                     <div className="flex justify-center gap-4 mb-4">
@@ -62,7 +62,7 @@ export default function Footer() {
                         <ul className="mt-2 space-y-1">
                             <li>
                                Shop No. 3 H.No.607,  Patwari Ji Building village bisrakh Jalalpur 
-                                Near R.L. international public school sector-1 Greater Noida West 201306
+                                Near R.L. international public school sector-1 Greater Noida West 201318
                             </li>
                             <li>
                                 <b className="text-[#ffb300] font-bold">
@@ -157,7 +157,7 @@ export default function Footer() {
                             href="#"
                             className="text-[#ffb300] font-bold underline"
                         >
-                            Neha Chimney & Repair Services
+                            Neha Chimney & RO Repair Services
                         </a>{" "}
                         All rights reserved
                     </span>
