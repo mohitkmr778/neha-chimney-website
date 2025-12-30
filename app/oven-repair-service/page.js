@@ -32,17 +32,16 @@ export default function OvenRepairServicePage() {
                                They offer 24×7 doorstep repair for home appliances, including microwaves and ovens. Their technicians are experienced and well-trained. 
                                     They also provide transparent pricing and a 3-month warranty on repairs.
                             </p>
-                            <p className="text-[#222] mb-2 text-base">
-                                    
-                               What makes Neha stand out is their commitment to customer satisfaction: they offer transparent pricing, genuine
+                            <p className="text-[#222] mb-2 text-base">  
+                                ${`What makes Neha stand out is their commitment to customer satisfaction: they offer transparent pricing, genuine
                                     replacement parts, and prompt service. 
-nehacare.shop
- Their team is experienced, well-trained, and equipped to diagnose and fix both mechanical faults and electrical issues. 
-nehacare.shop
-
-Moreover, Neha’s services are available across Noida and Greater Noida, making it convenient to book a technician right at your doorstep. 
-Sulekha
- Whether it’s a minor glitch or a major breakdown, Neha Chimney & Repair Services gives you peace of mind and quality repair work.
+                                nehacare.shop
+                                Their team is experienced, well-trained, and equipped to diagnose and fix both mechanical faults and electrical issues. 
+                                nehacare.shop
+                                
+                                Moreover, Neha’s services are available across Noida and Greater Noida, making it convenient to book a technician right at your doorstep. 
+                                Sulekha
+                                Whether it’s a minor glitch or a major breakdown, Neha Chimney & Repair Services gives you peace of mind and quality repair work.`}
                             </p>
                             <ul className="mt-4 space-y-2">
                                 <li className="flex items-center text-[#0d5c6b] font-medium">
