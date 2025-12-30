@@ -33,14 +33,14 @@ export default function ROWaterPurifierRepairServicePage() {
                             </h2>
                           
                             <p className="text-[#222] mb-2 text-base">
-                                For the greatest RO water purifier installation, maintenance, and repair services, Neha Services 
+                                 ${`For the greatest RO water purifier installation, maintenance, and repair services, Neha Services 
                                 is your go-to source, guaranteeing your family's access to clean and safe drinking water. We offer 
                                 dependable and reasonably priced services for all of the top brands of RO water purifiers because to
                                 our staff of skilled experts and customer-first philosophy.
                                 Problems including water leaks, strange noises, poor or no water flow, unpleasant tastes or odors, and
                                 broken filters or pumps are all addressed by our RO repair services. To restore your purifier's 
                                 functionality  a steady supply of clean drinking water, we employ authentic replacement
-                                parts and cutting-edge equipment.
+                                parts and cutting-edge equipment.`}
                             </p>
                            
                         </div>
