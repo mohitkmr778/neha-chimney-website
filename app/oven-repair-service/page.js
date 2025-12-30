@@ -122,7 +122,6 @@ export default function OvenRepairServicePage() {
                             </ul>
                         </div>
                     </section>
-                </div>
             </main>
         </>
     );
