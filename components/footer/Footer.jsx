@@ -62,7 +62,7 @@ export default function Footer() {
                         <ul className="mt-2 space-y-1">
                             <li>
                                Shop No. 3 H.No.607, Patwari Ji Building village bisrakh Jalalpur 
-                                Near R.L. international public school sector-1 Greater Noida West 201318
+                                Near R.L. international public school sector-1 Greater Noida West 201320
                             </li>
                             <li>
                                 <b className="text-[#ffb300] font-bold">
