@@ -74,7 +74,7 @@ export default function Footer() {
                                 <b className="text-[#ffb300] font-bold">
                                     Phone:
                                 </b>{" "}
-                                +91 8475907909
+                                +91 7310968871
                             </li>
                         </ul>
                     </div>
